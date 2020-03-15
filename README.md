@@ -32,6 +32,10 @@
 
 * pip3 install wget
 
+* pip3 install bs4
+
+* pip install bs4
+
 * python3 Server.py
 
 * python3 revoltshing.py
