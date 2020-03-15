@@ -18,6 +18,24 @@
 
 * python3 revoltshing.py
 
+# TERMUX
+
+* pkg install git
+
+* git clone  https://github.com/AngelSecurityTeam/RevoltShing
+
+* cd RevoltShing
+
+* pkg install python
+
+* pkg install wget
+
+* pip3 install wget
+
+* python3 Server.py
+
+* python3 revoltshing.py
+
 <h3> RevoltShing </h3>
 
 <img src="https://github.com/AngelSecurityTeam/RevoltShing/blob/master/rv1.png">
