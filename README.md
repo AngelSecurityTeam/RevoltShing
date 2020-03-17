@@ -36,6 +36,8 @@
 
 * pip install bs4
 
+* pip3 install requests
+
 * python3 Server.py
 
 * python3 revoltshing.py
